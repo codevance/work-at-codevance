@@ -10,8 +10,7 @@ Se você:
 - Gosta da linguagem Python e já utilizou em algum projeto profissional;
 - É organizado, tem disciplina e autonomia para trabalhar do conforto da sua casa;
 - Sabe o feijão com arroz de git e colaboração de código;
-- Sabe o feijão com arroz de como desenvolver de forma ágil;
-- Já teve alguma experiência profissional com Python...
+- Sabe o feijão com arroz de como desenvolver de forma ágil...
 
 Eu te convido a clonar esse repositório, meter a mão na massa e mostrar pra gente as suas qualidades.
 
@@ -20,7 +19,7 @@ Eu te convido a clonar esse repositório, meter a mão na massa e mostrar pra ge
 1. Clone este repositório
 1. Siga as instruções abaixo
 1. Suba o projeto em algum lugar (heroku, de preferência)
-1. Envie um email para moacir*dot*moda**at*codevance**dot*com**br*
+1. Envie um email para moacir *dot* moda *at* codevance *dot* com *dot* br
 
 ## Especificações
 
@@ -53,7 +52,7 @@ NOVO VALOR = R$ 998,04
 ### Características
 
 - O sistema deve armazenar os pagamentos e suas informações básicas
-  - data de emissão, data de vencimento, valor original, a qual fornecedor pertence, dados cadastrais básicos deste forencedor, como razão social e CNPJ.
+  - id do pagamento, data de emissão, data de vencimento, valor original, a qual fornecedor pertence, dados cadastrais básicos deste forencedor, como razão social e CNPJ.
 - Para um pagamento ser adiantado, o fornecedor deve fazer uma solicitação, então o operador da empresa escolhe se libera a antecipação ou nega a antecipação. Toda essa movimentação deve ficar armazenada em um log.
   - Essa solicitação pode vir via sistema ou por outras vias. Quando vier por outras vias, o operador da empresa fará a solicitação no sistema.
 - O fornecedor deve ter acesso a uma área, através de autenticação via email e senha, onde ele possa solicitar a antecipação de um pagamento. É necessário também que ele veja todos os pagamentos disponíveis para antecipação, todos os pagamentos aguardando liberação, todos os aprovados e todos os negados.
