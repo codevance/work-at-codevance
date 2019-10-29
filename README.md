@@ -67,10 +67,10 @@ NOVO VALOR = R$ 998,04
 
 ## Requisitos técnicos
 
-- Utilize Python como linguagem e PostgreSQL como banco de dados;
+- Utilize Python 3.7 (ou mais recente) como linguagem e PostgreSQL como banco de dados;
 - Utilize um framework (dica: com django é mais fácil);
 - O código deve estar em inglês (commits podem estar em pt-br);
-- O sistema deve estar online, rodando, em algum lugar;
+- O sistema deve estar online, rodando, em algum lugar (dica: com heroku é mais fácil);
 - O sistema deve ter testes automatizados (dica: com pytest é mais fácil);
 - O repositório deve conter documentação sobre como fazer deployment e como testar;
 - Deve conter uma documentação da API;
