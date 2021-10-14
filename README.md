@@ -6,13 +6,14 @@ Somos especialistas em Python, nosso time atua todo de forma remota e nossos cli
 
 Se você:
 
+- Tem sangue no olho e é, ou busca ser, um ótimo programador;
 - Tem interesse em crescer profissionalmente;
-- Gosta da linguagem Python e já utilizou em algum projeto profissional;
 - É organizado, tem disciplina e autonomia para trabalhar do conforto da sua casa;
-- Sabe o feijão com arroz de git e colaboração de código;
-- Sabe o feijão com arroz de como desenvolver de forma ágil...
+- Gosta da linguagem Python ou já utilizou em algum projeto profissional;
 
-Eu te convido a clonar esse repositório, meter a mão na massa e mostrar pra gente as suas qualidades.
+Eu te convido a clonar esse repositório, meter a mão na massa e mostrar pra gente as suas qualidades. 
+
+Temos vagas para todos os perfis. Não é preciso ter experiência e não fazemos nenhum tipo de distinção.
 
 ## Como participar
 
