@@ -11,7 +11,7 @@ Se você:
 - É organizado, tem disciplina e autonomia para trabalhar do conforto da sua casa;
 - Gosta da linguagem Python ou já utilizou em algum projeto profissional;
 
-Eu te convido a clonar esse repositório, meter a mão na massa e mostrar pra gente as suas qualidades. 
+Eu te convido a clonar esse repositório, meter a mão na massa e mostrar pra gente as suas qualidades.
 
 Temos vagas para todos os perfis. Não é preciso ter experiência e não fazemos nenhum tipo de distinção.
 
@@ -20,11 +20,11 @@ Temos vagas para todos os perfis. Não é preciso ter experiência e não fazemo
 1. Clone este repositório
 1. Siga as instruções abaixo
 1. Suba o projeto em algum lugar (heroku, de preferência)
-1. Envie um email para moacir *dot* moda *at* codevance *dot* com *dot* br
+1. Envie um e-mail para ronaldo *dot* oliveira *at* codevance *dot* com *dot* br
 
 ## Especificações
 
-Você vai desenvolver um sistema de antecipação de pagamentos. 
+Você vai desenvolver um sistema de antecipação de pagamentos.
 
 Imagine que haja uma série de pagamentos a serem feitos por uma empresa no decorrer dos próximos meses, mas a empresa quer fazer um plano com seus fornecedores para fazer estes pagamentos de forma adiantada, concedendo um desconto relacionado a quantidade de dias de diferença entre a data de vencimento original do pagamento e a nova data de pagamento.
 
@@ -78,7 +78,7 @@ NOVO VALOR = R$ 984,00
 
 ## Recomendações e dicas
 
-- Caso for utilizar Django, utilize o [nosso cookiecutter](https://github.com/codevance/cookiecutter-django);
+- Caso for utilizar Django, temos [nosso cookiecutter](https://github.com/codevance/cookiecutter-django) que pode servir de ponto de partida (mas não é obrigatório);
 - Use boas práticas de programação;
 - Modele os dados com cuidado;
 - Se preocupe com arquitetura e qualidade de código, não se preocupe com estética (dica: bootstrap é seu amigo).
